@@ -1,5 +1,4 @@
 # NutrifitFusionAccess
-This repository is here to explain how to access my application in a private repository which tracks users nutrition and workout information, and creates charts and graphs based on this information.
 
 Thank you for your interest in accessing my private repository which houses my NutrifitFusion mobile application! This application tracks users nutrition and workout information, and creates charts and graphs based on this information. This README provides information on how you can request access.
 
